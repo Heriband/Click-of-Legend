@@ -1,0 +1,8 @@
+{
+  "loadSave" : true,
+  "player": {
+    "gold" : 10000,
+    "kill": 1000,
+    "clickDamage" : 10
+  }
+}
